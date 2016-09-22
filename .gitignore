@@ -7,3 +7,4 @@ target/
 *.log*
 *.jar
 *.MF
+*.DS_Store
