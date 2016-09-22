@@ -8,3 +8,4 @@ target/
 *.jar
 *.MF
 *.DS_Store
+word_count*
